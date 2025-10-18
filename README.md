@@ -25,6 +25,8 @@ Multiplayer BSPs have been fixed up to ensure pathfinding can be generated.
 > [!TIP]
 > Lightmapping can be done in Blender during export, however on larger files it is recommended to use a tool like [Osoyoos](https://github.com/num0005/Osoyoos-Launcher) for lightmapping due to the high memory usage of certain Blender scenes
 
+> [!TIP]
+> The blender files do not come with any materials set up, however you can quickly generate game accurate materials using the `Convert Shaders to Blender Materials` button in the Foundry tools panel <div align="left"> <img src="images/build_materials_tool.png"> </div>
 
 
 ## Contributers
